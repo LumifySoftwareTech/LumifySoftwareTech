@@ -1,6 +1,6 @@
-# 🌟 Lumify IT Services 🌟
+# 🌟 Lumify 🌟
 
-Welcome to **Lumify IT Services**, your trusted partner in digital transformation! We offer a comprehensive range of IT solutions tailored to help businesses of all sizes grow and succeed in today’s tech-driven world.
+Welcome to **Lumify**, your trusted partner in digital transformation! We offer a comprehensive range of IT solutions tailored to help businesses of all sizes grow and succeed in today’s tech-driven world.
 
 ---
 
@@ -50,9 +50,9 @@ Turn data into insights:
 
 Ready to take your business to the next level? Getting started with Lumify is simple:
 
-1. **Visit our website** at [Lumify IT Services](https://lumifyit.com)
-2. **Email us** at [support@lumifyit.com](mailto:support@lumifyit.com)
-3. **Call us** at **+1 (123) 456-7890** for a personalized consultation
+1. **Visit our website** at [Lumify](https://lumify.co.in)
+2. **Email us** at [support@lumifyit.com](mailto:info@lumify.co.in)
+3. **Call us** at **+91 8717999707 for a personalized consultation
 
 ---
 
@@ -60,9 +60,9 @@ Ready to take your business to the next level? Getting started with Lumify is si
 
 We’d love to hear from you! Whether you need support or have questions about our services, reach out to us:
 
-- 🌐 **Website**: [https://lumifyit.com](https://lumifyit.com)
-- 📧 **Email**: [info@lumifyit.com](mailto:info@lumifyit.com)
-- 📞 **Phone**: +1 (123) 456-7890
+- 🌐 **Website**: [https://lumifyit.com](https://lumify.co.in)
+- 📧 **Email**: [info@lumifyit.com](mailto:info@lumify.co.in)
+- 📞 **Phone**: +91 8717999707
 - 🏢 **Address**: 1234 Innovation Drive, Tech City, TX 56789
 
 ---
