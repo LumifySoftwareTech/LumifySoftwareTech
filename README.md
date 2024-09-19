@@ -51,7 +51,7 @@ Turn data into insights:
 Ready to take your business to the next level? Getting started with Lumify is simple:
 
 1. **Visit our website** at [Lumify](https://lumify.co.in)
-2. **Email us** at [support@lumifyit.com](mailto:info@lumify.co.in)
+2. **Email us** at [support@lumify.co.in](mailto:info@lumify.co.in)
 3. **Call us** at **+91 8717999707 for a personalized consultation
 
 ---
@@ -60,8 +60,8 @@ Ready to take your business to the next level? Getting started with Lumify is si
 
 We’d love to hear from you! Whether you need support or have questions about our services, reach out to us:
 
-- 🌐 **Website**: [https://lumifyit.com](https://lumify.co.in)
-- 📧 **Email**: [info@lumifyit.com](mailto:info@lumify.co.in)
+- 🌐 **Website**: [https://lumify.co.in](https://lumify.co.in)
+- 📧 **Email**: [info@lumify.co.in](mailto:info@lumify.co.in)
 - 📞 **Phone**: +91 8717999707
 - 🏢 **Address**: 1234 Innovation Drive, Tech City, TX 56789
 
